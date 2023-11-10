@@ -1,0 +1,143 @@
+.main{
+    width: 900px;
+    height: 500px;
+    border-radius: 3px;
+    margin-top: 30px;
+    margin-left: 80px;
+    background-color: black;
+}
+
+.text{
+    margin-left: 80px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.left{
+    width: 200px;
+    height: 100px;
+    border-radius: 3px;
+}
+
+.d{
+    margin-top: -550px;
+    margin-left: 1100px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text1{
+    margin-top: -400px;
+    margin-left: 1310px;
+}
+.text2{
+    margin-top: 60px;
+    margin-left: 1310px;
+}
+
+.text3{
+    margin-top: 60px;
+    margin-left: 1310px;
+}
+.text4{
+    margin-top: 60px;
+    margin-left: 1310px;
+}
+
+.logo{
+    border-radius: 50%;
+    margin-top: 150px;
+    margin-left: 80px;
+}
+
+.txt{
+    margin-top: -50px;
+    margin-left: 140px;
+}
+
+.subscribe-button {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #e5e4e4;
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-left: 300px;
+    margin-top: -55px;
+}
+
+.subscribe-button:hover{
+    background-color: rgb(140, 141, 141);
+}
+
+.like-button:hover{
+    background-color: rgb(140, 141, 141);
+}
+
+.share-button:hover{
+    background-color: rgb(140, 141, 141);
+}
+
+
+.like-button{
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #e5e4e4;
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+    border-radius: 25px; 
+    cursor: pointer;
+    margin-left: 500px;
+    margin-top: -40px;
+}
+
+
+.share-button{
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #e5e4e4;
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+    border-radius: 25px; 
+    cursor: pointer;
+    margin-left: 630px;
+    margin-top: -40px;
+}
+
+.video-description {
+    width: 600px;
+    padding: 20px;
+    background-color: #e5e4e4;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 75px;
+}
+
+.video-description h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.views,
+.date {
+    color: #606060;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.description {
+    font-size: 16px;
+    line-height: 1.5;
+}
